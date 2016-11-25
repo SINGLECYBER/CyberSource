@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/SINGLECYBER/CyberSource](https://badges.gitter.im/SINGLECYBER/CyberSorce.svg)](https://gitter.im/SINGLECYBER/CyberSource?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**An advanced and powerful administration bot based on [SINGLECYBER/telegram-bot](https://github.com/SINGLECYBER/telegram-bot) licensed under the [GNU Affero General Public License](https://github.com/SINGLECYBER/CyberSource/blob/master/LICENSE)**.
+**An advanced and powerful administration bot based on [SINGLECYBER/SINGLECYBERBOT](https://github.com/SINGLECYBER/SINGLECYBERBOT) licensed under the [GNU Affero General Public License](https://github.com/SINGLECYBER/CyberSource/blob/master/LICENSE)**.
 # Features
 
 * **A powerful antispam system with custom sensitivity for each group**
