@@ -386,21 +386,21 @@ Commands list :
 دریافت لینک گروه ➤
 
 ➲ owner 
-Returns group owner id
+Returns group owner ؟؟
 
 ➲ setowner 【 username 】
 Will set id as owner
 
 ➲ setflood 【 value 】
-تنظیم 【 عدد تعین شده 】 به عنوان تعداد پیام
+تنظیم 【 عدد تعین شده 】 به عنوان تعداد پیام محاز پشت سر هم ➤
 
-!stats
-Simple message statistics
+➲ stats
+پیام ها
 
-!save [value] [text]
-Save [text] as [value]
+➲ save 【 value 】 [text 】
+ت
 
-!get [value]
+➲ get [value]
 Returns text of [value]
 
 !clean [modlist|rules|about]
