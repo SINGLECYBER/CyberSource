@@ -235,21 +235,12 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
+SINGLE CYBER (@SINGLECYBER)
 
-Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
 
 Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+English: @SINGLECYBERCHANNEL
+Persian: @SINGLECYBERCHANNEL
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -326,77 +317,82 @@ This command will send text to [group_id]
     help_text = [[
 Commands list :
 
-!kick [username|id]
-You can also do it by reply
+➲ kick 【 username ، id 】
+اخراج کاربر از گروه بطور موقت به طوریکه کاربر با لینک میتواند دوباره به گروه بیوندد ➤
+【 اجرا با ریپلی یا ایدی شخص 】
 
-!ban [ username|id]
-You can also do it by reply
+➲ ban 【 username|id 】
+اخراج دائمی کاربر از گروه بطوری که کاربر با لینک نیز نمیتواند به گروه بازگردد ➤
+【 اجرا با ریپلی یا ایدی شخص 】
 
-!unban [id]
-You can also do it by reply
+➲ unban 【 id 】
+خارج کردن کاربر از لیست افرادی که ممنوعیت ورود به گروه را دارند ➤
+【 اجرا با ریپلی یا ایدی شخص 】
 
-!who
-Members list
+➲ who
+لیست اعضای گروه ➤
 
-!modlist
-Moderators list
+➲ modlist
+لیست مدیران گروه ➤
 
-!promote [username]
-Promote someone
+➲ promote 【 username 】
+ارتقا مقام یک کاربر به مدیر ➤
 
-!demote [username]
-Demote someone
+➲ demote 【 username 】
+عزل کردن یک کاربر از مقام مدیریت در گروه ➤
 
-!kickme
-Will kick user
+➲ kickme
+اخراج شما توسط ربات از گروه ➤
 
-!about
-Group description
+➲ about
+توضیحات گروه ➤
 
-!setphoto
-Set and locks group photo
+➲ setphoto
+تنظیم کردن عکس پروفایل گروه ➤
 
-!setname [name]
-Set group name
+➲ setname 【 name 】
+تنظیم کردن نام گروه ➤
 
-!rules
-Group rules
+➲ rules
+نمایش قوانین گروه ➤
 
-!id
-Return group id or user id
+➲ id
+دریافت ایدی عددی شما و گروه ➤
 
-!help
-Get commands list
+➲ help
+نمایش دوباره راهنمای کروه ➤
 
-!lock [member|name|bots|leave] 
-Locks [member|name|bots|leaveing] 
+➲ lock 【 member ، name ، bots ، leave 】
+قفل کردن ➤
+【 دعوت کاربران به گروه ، نام گروه ، دعوت ربات به گروه ، بازگشت دوباره به گروه پس از خروج 】
 
-!unlock [member|name|bots|leave]
-Unlocks [member|name|bots|leaving]
+➲ unlock 【 member ، name ، bots ، leave 】
+باز کردن ➤
+【 دعوت از دوستان ، نام گروه ، دعوت ربات به گروه ، بازگشت دوباره به گروه پس از خروج】
 
-!set rules [text]
-Set [text] as rules
+➲ set rules 【 text 】
+تنظیم 【 متن قوانین 】 در گروه ➤
 
-!set about [text]
-Set [text] as about
+➲ set about 【 text 】
+تنظیم 【 متن توضیحات 】 در گروه ➤
 
-!settings
-Returns group settings
+➲ settings
+نمایش تنظیمات گروه ➤
 
-!newlink
-Create/revoke your group link
+➲ newlink
+ساخت / تعویض لینک گروه ➤
 
-!link
-Returns group link
+➲ link
+دریافت لینک گروه ➤
 
-!owner
+➲ owner 
 Returns group owner id
 
-!setowner [id]
+➲ setowner 【 username 】
 Will set id as owner
 
-!setflood [value]
-Set [value] as flood sensitivity
+➲ setflood 【 value 】
+تنظیم 【 عدد تعین شده 】 به عنوان تعداد پیام
 
 !stats
 Simple message statistics
